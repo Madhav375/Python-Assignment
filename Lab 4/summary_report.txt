@@ -1,0 +1,11 @@
+Weather Data Summary Report
+--------------------------
+      temperature             rainfall   humidity
+             mean   min   max      sum       mean
+month                                            
+1       20.870968  12.4  31.4    299.0  64.832258
+
+Key Observations:
+- Temperature varies across months.
+- Rainfall data shows seasonal patterns.
+- Humidity relation can be checked in scatter plot.
